@@ -206,6 +206,7 @@ Isolated execution for agent code, plus the tool-calling platforms that let agen
 
 - [E2B](https://e2b.dev) `OSS` — Cloud sandboxes for agent-generated code; desktop (computer-use) sandboxes.
 - [Arcade](https://www.arcade.dev) `OSS` — Tool-calling platform with per-user authorization; agents act as the user, not a bot.
+- [Aident Loadout](https://aident.ai) `OSS` — Remote MCP that connects Codex, Claude Code, Cursor, ChatGPT and other clients to 1,000+ apps and 400+ Skills through one setup, with vaulted credentials and audit logs.
 - [Composio](https://composio.dev) `OSS` — Managed auth and app integrations as agent tools; skips OAuth plumbing for Gmail, Slack, Jira.
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) `OSS` — AWS microVMs; the isolation tech underneath most multi-tenant agent execution platforms.
 
